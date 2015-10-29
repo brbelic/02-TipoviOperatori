@@ -9,10 +9,10 @@ namespace CSharp.TipoviOperatori
             Console.WriteLine("Krećem iz Program.Main(string[] args)");
         }
 
-        static void Main()
-        {
-            Console.WriteLine("Krećem iz Program.Main()");
-        }
+       // static void Main()
+       // {
+       //     Console.WriteLine("Krećem iz Program.Main()");
+       // }
 
         public static void main()
         {
